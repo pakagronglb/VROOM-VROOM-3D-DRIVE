@@ -1,4 +1,4 @@
-# 🚗 3D Multiplayer Car Lobby
+# 3D Multiplayer Car Lobby
 
 ![Vroom Vroom](./lobby.jpeg)
 
